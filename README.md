@@ -1,3 +1,10 @@
+# Actually...
+This is just my little test of how to do shiz with React.  There shouldn't be much to see here, but I was following the rails fairly close on the DesignCode.io tutorial.
+
+I'm leaving the Gatsby boilerplat README stuff down below because I want to peruse it when I have 25hrs in a day, or when I'm feeling lazy #dontjudgeme
+
+
+
 # gatsby-starter-default
 The default Gatsby starter.
 
